@@ -96,4 +96,5 @@ The pipeline is divided into three main modules:
    cd Dynamic-Behavior-Tree
 
 2. Install the dependencies:
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
