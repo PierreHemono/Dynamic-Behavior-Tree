@@ -1,0 +1,38 @@
+{
+  "jobs": {
+    "j_1": {
+      "operations": {
+        "OP11": ["move_to", "pick", "move_to", "place"],
+        "OP12": ["move_to", "pick", "move_to", "place"],
+        "OP13": ["move_to", "pick", "move_to", "place"],
+        "OP14": ["move_to", "pick", "move_to", "place"],
+        "OP15": ["move_to", "pick", "move_to", "place"],
+        "OP16": ["move_to", "pick", "move_to", "place"]
+      }
+    },
+    "j_2": {
+      "operations": {
+        "OP21": ["pick", "place"],
+        "OP22": ["pick", "place"],
+        "OP23": ["pick", "place"]
+      }
+    },
+    "j_3": {
+      "operations": {
+        "OP31": ["pick", "place"],
+        "OP32": ["pick", "place"],
+        "OP33": ["pick", "place"]
+      }
+    },
+    "j_4": {
+      "operations": {
+        "OP41": ["move_to", "pick", "move_to", "place"],
+        "OP42": ["move_to", "pick", "move_to", "place"],
+        "OP43": ["move_to", "pick", "move_to", "place"],
+        "OP44": ["move_to", "pick", "move_to", "place"],
+        "OP45": ["move_to", "pick", "move_to", "place"],
+        "OP46": ["move_to", "pick", "move_to", "place"]
+      }
+    }
+  }
+}
