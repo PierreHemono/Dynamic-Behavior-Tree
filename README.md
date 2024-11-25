@@ -49,7 +49,7 @@ The pipeline is divided into three main modules:
    - Translates the plan into an executable Behavior Tree.
    - Manages real-time deviations using ROSPlan.
 
-![Pipeline](Pipeline.pdf)
+![Pipeline](Pipeline.png)
 
 ---
 
