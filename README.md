@@ -94,3 +94,6 @@ The pipeline is divided into three main modules:
    ```bash
    git clone https://github.com/PierreHemono/Dynamic-Behavior-Tree.git
    cd Dynamic-Behavior-Tree
+
+2. Install the dependencies:
+pip install -r requirements.txt
