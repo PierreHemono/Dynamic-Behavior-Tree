@@ -194,3 +194,26 @@ Steps to Use:
     ```bash
     python P3_Assembleur.py
     ```
+
+
+### Alternative Plans
+
+The project balances two main objectives: minimizing the difficulty of work and reducing the makespan. This section provides alternative plans generated with different values of the alpha parameter. The alpha parameter controls the trade-off between these two objectives in our blended function. For more details, refer to this [scientific article](https://www.sciencedirect.com/science/article/abs/pii/S0305054824003460).
+
+The corresponding documents are as follows:
+- [Gantt with alpha = 0.6](AlternativeAlpha06.sol)
+- [Gantt with alpha = 0.8](AlternativeAlpha08.sol)
+
+---
+
+#### Gantt Chart (Alpha = 0.6)
+![Gantt Alpha = 0.6](Gantt_alpha06.png)
+
+---
+
+#### Gantt Chart (Alpha = 0.8)
+![Gantt Alpha = 0.8](Gantt_alpha_08.png)
+
+---
+
+By renaming these alternative `.sol` files to the correct input filenames and using them in the pipeline, you can test the generalization of our system.
