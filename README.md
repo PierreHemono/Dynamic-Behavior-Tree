@@ -117,3 +117,80 @@ The pipeline is composed of three main blocks, each enabling effective collabora
 2. Install the dependencies:
    ```bash
    pip install -r requirements.txt
+
+## Usage
+
+This section provides detailed instructions on how to utilize the three main components of the pipeline: **Converter (P1)**, **Dispatcher (P2)**, and **Assembler (P3)**.
+
+### 1. **Converter (P1)**
+
+**Purpose:**  
+Processes optimization logs (`solution.sol`) and translates them into a usable format for generating the PDDL knowledge base.
+
+**Input:**  
+- Optimization log file: `solution.sol`
+
+**Output:**  
+- Translated logs: `solution_readable.txt`
+
+**Steps to Use:**
+
+1. **Navigate to the Converter directory:**
+    ```bash
+    cd 'your repositery'
+    ```
+
+2. **Run the Converter script: (python3.7)**
+    ```bash
+    python P1_Convertisseur.py
+    ```
+
+### 1. **Dispatcher (P2)**
+
+**Purpose:**  
+Combines translated logs with a database of elementary operations to produce `domain.pddl` and `problem.pddl` files, which are essential for high-level planning.
+
+**Input:**  
+- Translated logs: `solution_readable.txt`
+- Elementary operations database: `operations_elementaires.json`
+
+**Output:**  
+- PDDL domain file: `domain.pddl`
+- PDDL problem file: `problem.pddl`
+
+**Steps to Use:**
+
+1. **Navigate to the Dispatcher directory:**
+    ```bash
+    cd 'your repositery'
+    ```
+
+2. **Run the Dispatcher script: (python3.7)**
+    ```bash
+    python P2_Dispatcher.py
+    ```
+
+
+### Assembler (P3)
+
+Purpose:  
+Converts PDDL plans into executable Behavior Trees (BT). These BTs are tested through simulation for success or failure.
+
+Input:  
+- PDDL domain file: `domain.pddl`
+- PDDL problem file: `problem.pddl`
+
+Output:  
+- Behavior Tree Python file: `behavior_tree_autoV2.py`
+
+Steps to Use:
+
+1. **Navigate to the Assembler directory:**
+    ```bash
+    cd 'your repositery'
+    ```
+
+2. **Run the Dispatcher script: (python3.7)**
+    ```bash
+    python P3_Assembleur.py
+    ```
