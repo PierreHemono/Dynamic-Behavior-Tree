@@ -207,12 +207,12 @@ The corresponding documents are as follows:
 ---
 
 #### Gantt Chart (Alpha = 0.6)
-![Gantt Alpha = 0.6](Gantt_alpha06.png)
+![Gantt Alpha = 0.6](Gantt_Alpha06.png)
 
 ---
 
 #### Gantt Chart (Alpha = 0.8)
-![Gantt Alpha = 0.8](Gantt_alpha_08.png)
+![Gantt Alpha = 0.8](Gantt_Alpha08.png)
 
 ---
 
