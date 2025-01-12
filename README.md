@@ -217,3 +217,55 @@ The corresponding documents are as follows:
 ---
 
 By renaming these alternative `.sol` files to the correct input filenames and using them in the pipeline, you can test the generalization of our system.
+
+
+## References
+
+If you use this work, please consider citing the following research papers in your references:
+
+---
+
+
+### Article 1
+
+**Multi-objective optimization of human–robot collaboration: A case study in aerospace assembly line**  
+*Pierre Hémono, Ahmed Nait Chabane, M’hammed Sahnoun*  
+**Journal:** Computers & Operations Research  
+**Volume:** 174, **Pages:** 106874, **Year:** 2025  
+**DOI:** [10.1016/j.cor.2024.106874](https://doi.org/10.1016/j.cor.2024.106874)  
+**URL:** [Read on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0305054824003460)  
+
+
+BibTeX:
+```bibtex
+@article{HEMONO2025106874,
+  title = {Multi objective optimization of human–robot collaboration: A case study in aerospace assembly line},
+  journal = {Computers & Operations Research},
+  volume = {174},
+  pages = {106874},
+  year = {2025},
+  issn = {0305-0548},
+  doi = {https://doi.org/10.1016/j.cor.2024.106874},
+  url = {https://www.sciencedirect.com/science/article/pii/S0305054824003460},
+  author = {Pierre Hémono and Ahmed {Nait Chabane} and M’hammed Sahnoun}
+}
+```
+
+### Article 2
+
+**Leveraging Digital Twin and Dynamic Scheduling for Enhanced Human-Robot Collaboration**  
+*Pierre Hémono, Ahmed Nait Chabane, M’hammed Sahnoun*  
+Available at: SSRN  
+**DOI:** [DOI: 10.2139/ssrn.5065955](https://dx.doi.org/10.2139/ssrn.5065955)  
+**URL:** [Read on SSRN](https://ssrn.com/abstract=5065955)  
+
+BibTeX:
+```bibtex
+@article{HEMONO2025digitaltwin,
+  title = {Leveraging Digital Twin and Dynamic Scheduling for Enhanced Human-Robot Collaboration},
+  author = {Pierre Hémono and Ahmed {Nait Chabane} and M’hammed Sahnoun},
+  year = {2025},
+  url = {https://ssrn.com/abstract=5065955},
+  doi = {10.2139/ssrn.5065955},
+}
+```
