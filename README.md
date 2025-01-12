@@ -198,7 +198,7 @@ Steps to Use:
 
 ### Alternative Plans
 
-The project balances two main objectives: minimizing the difficulty of work and reducing the makespan. This section provides alternative plans generated with different values of the alpha parameter. The alpha parameter controls the trade-off between these two objectives in our blended function. For more details, refer to this [scientific article](https://www.sciencedirect.com/science/article/abs/pii/S0305054824003460).
+The project balances two main objectives: minimizing the difficulty of work and reducing the makespan. This section provides alternative plans generated with different values of the alpha parameter. The alpha parameter controls the trade-off between these two objectives in our blended function. For more details, refer to our article [Multi objective optimization of human–robot collaboration: A case study in aerospace assembly line, Computers and Operations Research](https://www.sciencedirect.com/science/article/abs/pii/S0305054824003460).
 
 The corresponding documents are as follows:
 - [Gantt with alpha = 0.6](AlternativeAlpha06.sol)
