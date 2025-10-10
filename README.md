@@ -81,7 +81,7 @@ The pipeline is composed of three main blocks, each enabling effective collabora
 - **PDDL**: Planning Domain Definition Language, a standard for automated planning.
 - **POPF3**:  A forward-chaining partial-order planner for PDDL, used for temporal planning.
 Repository: (historical repository unavailable) — alternatives: https://github.com/fmrico/popf (POPF) / https://github.com/mortacious/popf2 (POPF2)
-Paper: **Coles et al.**, "Forward-Chaining Partial-Order Planning," [https://doi.org/10.1609/icaps.v20i1.13403].
+- Paper: **Coles et al.**, "Forward-Chaining Partial-Order Planning," [https://doi.org/10.1609/icaps.v20i1.13403].
 
 ### Control Frameworks
 - **py-trees**: A Python library for constructing and running Behavior Trees, developed by Daniel Stonier.  
