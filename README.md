@@ -117,7 +117,7 @@ This ensures the pipeline can resume operation without restarting the entire pro
 - **PDDL**: Planning Domain Definition Language, a standard for automated planning.
 - **POPF3**: A forward-chaining partial-order planner for PDDL, used for temporal planning.  
   Repository: (historical repository unavailable) — alternatives: [https://github.com/fmrico/popf](https://github.com/fmrico/popf) (POPF) / [https://github.com/mortacious/popf2](https://github.com/mortacious/popf2) (POPF2)  
-  Paper: **Coles et al.**, "Hybrid Temporal Planning: Reaching Into the Middle Ground," IJCAI 2009.
+  Paper: **Coles et al.**, "Forward-Chaining Partial-Order Planning," [https://doi.org/10.1609/icaps.v20i1.13403].
 - **PlanSys2**: Planning System for ROS2, replacing ROSPlan for problem management and plan generation.  
   Repository: [https://github.com/IntelligentRoboticsLabs/ros2_planning_system](https://github.com/IntelligentRoboticsLabs/ros2_planning_system)  
   Paper: **Francisco Martín et al.**, "PlanSys2: A Planning System for ROS2"
