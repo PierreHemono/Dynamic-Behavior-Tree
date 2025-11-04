@@ -255,17 +255,22 @@ BibTeX:
 
 **Leveraging Digital Twin and Dynamic Scheduling for Enhanced Human-Robot Collaboration**  
 *Pierre Hémono, Ahmed Nait Chabane, M’hammed Sahnoun*  
-Available at: SSRN  
-**DOI:** [DOI: 10.2139/ssrn.5065955](https://dx.doi.org/10.2139/ssrn.5065955)  
-**URL:** [Read on SSRN](https://ssrn.com/abstract=5065955)  
+**Journal:** International Journal of Production Economics  
+**Pages:** 109823, **Year:** 2025  
+**DOI:** [DOI: 10.1016/j.ijpe.2025.109823)](https://doi.org/10.1016/j.ijpe.2025.109823)  
+**URL:** [Read on science direct](https://www.sciencedirect.com/science/article/pii/S0925527325003081)  
 
 BibTeX:
 ```bibtex
-@article{HEMONO2025digitaltwin,
-  title = {Leveraging Digital Twin and Dynamic Scheduling for Enhanced Human-Robot Collaboration},
-  author = {Pierre Hémono and Ahmed {Nait Chabane} and M’hammed Sahnoun},
-  year = {2025},
-  url = {https://ssrn.com/abstract=5065955},
-  doi = {10.2139/ssrn.5065955},
+@article{HEMONO2025109823,
+   title = {Leveraging digital twin and dynamic scheduling for enhanced human–robot collaboration},
+   journal = {International Journal of Production Economics},
+   pages = {109823},
+   year = {2025},
+   issn = {0925-5273},
+   doi = {https://doi.org/10.1016/j.ijpe.2025.109823},
+   url = {https://www.sciencedirect.com/science/article/pii/S0925527325003081},
+   author = {Pierre Hémono and Ahmed {Nait Chabane} and M’hammed Sahnoun},
+   keywords = {Human–robot collaboration, Digital twin, Industry 5.0, Human factors},
 }
 ```
